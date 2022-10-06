@@ -1,4 +1,4 @@
-# mymall
+# mobilemall
 
 ## Project setup
 ```
