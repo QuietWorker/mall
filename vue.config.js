@@ -12,6 +12,7 @@ module.exports={
             .set('components',resolve('./src/components'))
             .set('views',resolve('./src/views'))
             .set('assets',resolve('./src/assets'))
+            .set('network',resolve('./src/network'))
     }
 }
 
